@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/bit08react/static/css/main.69ee92ee.css",
+    "main.js": "/bit08react/static/js/main.9f7f19e0.js",
+    "static/media/realmadrid.png": "/bit08react/static/media/realmadrid.05ea76d5db4322748861.png",
+    "index.html": "/bit08react/index.html",
+    "main.69ee92ee.css.map": "/bit08react/static/css/main.69ee92ee.css.map",
+    "main.9f7f19e0.js.map": "/bit08react/static/js/main.9f7f19e0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.69ee92ee.css",
+    "static/js/main.9f7f19e0.js"
+  ]
+}
