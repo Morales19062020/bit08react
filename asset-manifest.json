@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Morales19062020/static/css/main.a39ea389.css",
+    "main.js": "/Morales19062020/static/js/main.9f7f19e0.js",
+    "static/media/realmadrid.png": "/Morales19062020/static/media/realmadrid.05ea76d5db4322748861.png",
+    "index.html": "/Morales19062020/index.html",
+    "main.a39ea389.css.map": "/Morales19062020/static/css/main.a39ea389.css.map",
+    "main.9f7f19e0.js.map": "/Morales19062020/static/js/main.9f7f19e0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a39ea389.css",
+    "static/js/main.9f7f19e0.js"
+  ]
+}
